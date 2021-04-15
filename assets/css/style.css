@@ -57,10 +57,6 @@ footer h3 {
     font-size: 20px;
 }
 
-p {
-    font-size: 16px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
@@ -69,6 +65,12 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+p {
+    font-size: 16px;
+}
+
+
 
 .float-left {
     float: left;
