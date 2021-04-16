@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* css selector changed */
+/* header container styling */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -16,18 +16,17 @@ header {
     color: #ffffff;
 }
 
-/* css selector changed */
+/* logo styling */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/* css selector changed */
 header h1 .seo {
     color: #d9dcd6;
 }
 
-/* css selector changed */
+/* navigation bar styling */
 header nav {
     padding-top: 15px;
     float: right;
@@ -42,9 +41,7 @@ header nav a {
     text-decoration: none;
 }
 
-/* other div styling removed */
-
-/* css selector changed */
+/* footer styling */
 footer {
     padding: 30px;
     clear: both;
@@ -52,11 +49,11 @@ footer {
     text-align: center;
 }
 
-/* css selector changed */
 footer h3 {
     font-size: 20px;
 }
 
+/* hero section background image styling */
 .hero {
     height: 800px;
     width: 100%;
@@ -66,8 +63,8 @@ footer h3 {
     background-position: center;
 }
 
-/* css selector changed */
-main {
+/* marketing techiques container styling */
+section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -84,7 +81,7 @@ main {
     color: #ffffff;
 }
 
-/* common image style for all three images inside section card*/
+/* common image style for all three images inside section card */
 .section-card img {
     max-height: 200px;
 }
@@ -105,9 +102,7 @@ main {
     margin-left: 25px;
 }
 
-/* p removed The default font-size of p tag is 16px */
-
-/* css selector changed */
+/* Benefits container styling */
 aside{
     margin-right: 20px;
     padding: 20px;
@@ -132,7 +127,7 @@ aside{
     text-align: center;
 }
 
-/* common image style for all three images inside benefit card*/
+/* common image style for all three images inside benefit card */
 .benefit-card img {
     display: block;
     margin: 10px auto;
