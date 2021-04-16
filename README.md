@@ -9,9 +9,9 @@ Github repository url https://github.com/kirti18patel/code-refactor
     -CSS
 
 ## Task lists
-    - [x]
-    - [x] Accessibilty Improved
-    - [x] Comments Added
+- [x] Code Refactored
+- [x] Accessibilty Improved
+- [x] Comments Added
 ## How to Use
 ## Screenshots
 ![alt screenshot1](assets/screenshots/after-code-refactor1.png)
