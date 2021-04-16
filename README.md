@@ -14,9 +14,9 @@ Github repository url https://github.com/kirti18patel/code-refactor
     - [x] Comments Added
 ## How to Use
 ## Screenshots
-![alt screenshot1]("./assets/screenshots/after-code-refactor1.png")
-![alt screenshot1]("./assets/screenshots/after-code-refactor2.png")
-![alt screenshot1]("./assets/screenshots/after-code-refactor3.png")
+![alt screenshot1]("assets/screenshots/after-code-refactor1.png")
+![alt screenshot1]("assets/screenshots/after-code-refactor2.png")
+![alt screenshot1]("assets/screenshots/after-code-refactor3.png")
 ## Contact - **kirti18patel@yahoo.com**
 
 
