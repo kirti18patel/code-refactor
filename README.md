@@ -2,7 +2,7 @@
 
 Github repository url https://github.com/kirti18patel/code-refactor
 
-[live url] (https://kirti18patel.github.io/code-refactor/)
+[live url](https://kirti18patel.github.io/code-refactor/)
 
 ### Tech Used
     -HTML
