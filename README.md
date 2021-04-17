@@ -9,7 +9,7 @@ click the link below to visit the website : [Horiseon](https://kirti18patel.gith
 click the link below to check the repository : [Horiseon](https://github.com/kirti18patel/code-refactor)
 
 ### Tech Used
-    -HTML
+    -HTML 
     -CSS
 
 ## Task lists
