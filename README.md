@@ -1,25 +1,27 @@
 # Horiseon
+> Provides Information on Search Engine Optimization, Online Reputation Management and Social Media Marketing
+> Also provides content on Digital Marketing
 
-Github repository url https://github.com/kirti18patel/code-refactor
+# Horiseon Deployed Link
+click the link below to visit the website : [Horiseon](https://kirti18patel.github.io/code-refactor/)
 
-[live url](https://kirti18patel.github.io/code-refactor/)
+## Repository
+click the link below to check the repository : [Horiseon](https://github.com/kirti18patel/code-refactor)
 
 ### Tech Used
     -HTML
     -CSS
 
 ## Task lists
-- [x] Code Refactored
-- [x] Accessibilty Improved
-- [x] Comments Added
-## How to Use
-## Screenshots
+- [x] Landing page
+- [x] Accessible to everyone
+- [x] Benefits and Marketing Techniques included
+
+## Preview
 ![alt screenshot1](assets/screenshots/after-code-refactor1.png)
 ![alt screenshot1](assets/screenshots/after-code-refactor2.png)
 ![alt screenshot1](assets/screenshots/after-code-refactor3.png)
+
 ## Contact - **kirti18patel@yahoo.com**
-
-
-Increases accessibility and structure of code
 
 MIT © [kirti18patel]()
