@@ -22,6 +22,6 @@ click the link below to check the repository : [Horiseon](https://github.com/kir
 ![alt screenshot1](assets/screenshots/after-code-refactor2.png)
 ![alt screenshot1](assets/screenshots/after-code-refactor3.png)
 
-## Contact - **kirti18patel@yahoo.com**
+#### Contact - **kirti18patel@yahoo.com**
 
 MIT © [kirti18patel]()
