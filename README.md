@@ -6,7 +6,7 @@
 click the link below to visit the website : [Horiseon](https://kirti18patel.github.io/code-refactor/)
 
 ## Repository
-click the link below to check the repository : [Horiseon](https://github.com/kirti18patel/code-refactor)
+click the link below to check the repository : [Github Repository Link](https://github.com/kirti18patel/code-refactor)
 
 ### Tech Used
     -HTML 
